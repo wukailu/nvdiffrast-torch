@@ -1,3 +1,7 @@
+# Build
+
+Use `python setup.py bdist_wheel` to build your own package.
+
 ## Nvdiffrast &ndash; Modular Primitives for High-Performance Differentiable Rendering
 
 ![Teaser image](./docs/img/teaser.png)

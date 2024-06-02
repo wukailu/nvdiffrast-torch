@@ -29,7 +29,7 @@
 #include "tf_interpolate.cu"
 
 #include "../common/texture.cpp"
-#include "../common/texture.cu"
+#include "../common/texture_kernel.cu"
 #include "tf_texture.cu"
 
 #include "../common/antialias.cu"
